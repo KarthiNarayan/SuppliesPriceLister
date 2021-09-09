@@ -1,0 +1,9 @@
+D:\supplies-price-lister\SuppliesPriceLister.Domain\bin\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.deps.json
+D:\supplies-price-lister\SuppliesPriceLister.Domain\bin\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.dll
+D:\supplies-price-lister\SuppliesPriceLister.Domain\bin\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.pdb
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.csproj.AssemblyReference.cache
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.AssemblyInfoInputs.cache
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.AssemblyInfo.cs
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.csproj.CoreCompileInputs.cache
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.dll
+D:\supplies-price-lister\SuppliesPriceLister.Domain\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Domain.pdb

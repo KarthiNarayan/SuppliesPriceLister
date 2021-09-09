@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SuppliesPriceLister.Domain/1.0.0": {
+        "runtime": {
+          "SuppliesPriceLister.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuppliesPriceLister.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

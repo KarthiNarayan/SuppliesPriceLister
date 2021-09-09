@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\supplies-price-lister\\SuppliesPriceLister.Interface\\SuppliesPriceLister.Interface.csproj": {}
+  },
+  "projects": {
+    "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\SuppliesPriceLister.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\SuppliesPriceLister.Domain.csproj",
+        "projectName": "SuppliesPriceLister.Domain",
+        "projectPath": "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\SuppliesPriceLister.Domain.csproj",
+        "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
+        "outputPath": "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\supplies-price-lister\\SuppliesPriceLister.Interface\\SuppliesPriceLister.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\supplies-price-lister\\SuppliesPriceLister.Interface\\SuppliesPriceLister.Interface.csproj",
+        "projectName": "SuppliesPriceLister.Interface",
+        "projectPath": "D:\\supplies-price-lister\\SuppliesPriceLister.Interface\\SuppliesPriceLister.Interface.csproj",
+        "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
+        "outputPath": "D:\\supplies-price-lister\\SuppliesPriceLister.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\SuppliesPriceLister.Domain.csproj": {
+                "projectPath": "D:\\supplies-price-lister\\SuppliesPriceLister.Domain\\SuppliesPriceLister.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
